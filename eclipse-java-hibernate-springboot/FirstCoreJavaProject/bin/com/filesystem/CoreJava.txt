@@ -1,0 +1,2 @@
+Java is Object oriented language
+Java is simple,Secure,Robust
